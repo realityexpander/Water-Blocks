@@ -11,10 +11,12 @@ Visualization:<br>
 '-' is water<br>
  '#' is a block<br>
 <br>
-#<br>
-#<br>
-# - # -  - #<br>
-# # # # - #<br>
-# # # # # #<br>
+```
+ #
+ #
+ # - # -  - #
+ # # # # - #
+ # # # # # #
+ ```
 <br>
 Remember the rules of how to answer technical prompts. Try and go from a working naive solution to a working ideal solution.<br>
